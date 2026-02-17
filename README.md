@@ -2,8 +2,6 @@
 
 A clean and modern product card layout designed for e-commerce interfaces. This project demonstrates responsive web design principles using a **mobile-first** strategy.
 
-## 🚀 Live Demo
-[Insert your GitHub Pages link here]
 
 ## ✨ Key Features
 - **Responsive Layout**: Automatically adjusts from 1 to 3 columns using **CSS Grid** (`min-width` media queries).
