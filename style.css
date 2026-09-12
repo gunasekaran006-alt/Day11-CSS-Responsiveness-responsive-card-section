@@ -67,12 +67,13 @@ body{
     color: #5e558a;
     border-radius: 6px;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .secondary:hover {
     background: #5e558a; 
     color: white;       
-    transition: 0.3s;  
+    /* transition: 0.3s;   */
 }
 
 .primary{
@@ -83,11 +84,12 @@ body{
     color: white;
     border-radius: 6px;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .primary:hover {
     background: #4a4470; 
-    transition: 0.3s;
+    /* transition: 0.3s; */
 }
 
 @media(min-width: 600px){
